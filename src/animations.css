@@ -1,0 +1,13 @@
+/* 
+  animations.css – Supplemental animation utilities for 1Fi Marketplace.
+  Custom keyframes are defined in index.css via @theme.
+  This file only provides the reduced-motion override (already handled globally in index.css)
+  and extra utility classes for hover/active micro-interactions.
+*/
+
+/* Product card staggered fade-in delay helpers */
+.animation-delay-100 { animation-delay: 100ms; }
+.animation-delay-200 { animation-delay: 200ms; }
+.animation-delay-300 { animation-delay: 300ms; }
+.animation-delay-400 { animation-delay: 400ms; }
+.animation-delay-500 { animation-delay: 500ms; }
